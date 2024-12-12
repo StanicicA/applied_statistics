@@ -16,4 +16,5 @@ Resources:
 7.https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
 8.https://statistics.laerd.com/spss-tutorials/one-way-anova-using-spss-statistics.php
 9.https://en.wikipedia.org/wiki/F-test#One-way_analysis_of_variance
-10.
+10.https://www.jstor.org/stable/2331554
+11.https://www.scirp.org/reference/referencespapers?referenceid=2056938
