@@ -18,3 +18,8 @@ Resources:
 9.https://en.wikipedia.org/wiki/F-test#One-way_analysis_of_variance
 10.https://www.jstor.org/stable/2331554
 11.https://www.scirp.org/reference/referencespapers?referenceid=2056938
+12.https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html
+13.https://www.scribbr.com/statistics/t-test/#:~:text=A%20t%20test%20is%20a,are%20different%20from%20one%20another.
+14.https://datatab.net/tutorial/t-test
+15.https://en.wikipedia.org/wiki/Student%27s_t-test
+16.https://www.investopedia.com/terms/t/t-test.asp
