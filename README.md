@@ -1,10 +1,18 @@
-# applied_statistics
+## Applied_Statistics
 
-This repository contains my assessment submission for the Applied Statistic module 
+This repository contains my assessment submission for the Applied Statistic module in the following three notebooks: 
 
+## 1. tasks.ipynb
 
+Four answers to the following list of tasks can be found in this notebook:
 
-In the project, I have analysed the Plant Growth dataset using the T test and ANOVA statistical test.
+Task 1: Permutations and Combinations
+Task 2: numpy's Normal Distribution
+Task 3: t-Test Calculation
+Task 4: ANOVA
+
+## 2. project.ipyb
+In this notebook, I have analysed the Plant Growth dataset using the T test and ANOVA statistical test.
 
 A t-test is an inferential statistic used to determine if there is a statistically significant difference between the means of two population samples. It is used in statistics for hypothesis testing and can indicate whether differences between two populations are meaningful or random.
 
@@ -14,8 +22,11 @@ In this case, I performed a t-test to compare the means of the treatment groups 
 
 When performing using ANOVA statistical test to determine whether there is a significant difference between the three treatment groups ctrl, trt1, and trt2, the results have shown that the p-value is less than 0.05, so we can reject the null hypothesis meaning there is a significant difference in the mean weights of plants among the three groups (ctrl, trt1, and trt2).
 
+## 3. mywork.ipynb
 
-Resources:
+GitHub repository containing additional exercises made in this module
+
+## Literature:
 1.https://docs.python.org/3/library/math.html#math.comb
 2.https://peps.python.org/pep-0008/
 3.https://en.wikipedia.org/wiki/Normal_distribution
